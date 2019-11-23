@@ -1,0 +1,30 @@
+.card {
+
+    border-radius: 2px;
+    height: 200px;
+    margin: 1rem;
+    position: relative;
+    text-align: left;
+  }
+  
+  .card > .img-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    
+
+  }
+  .card > .img-container > img {
+    width: 50%
+  }
+  
+  .card > .content {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }

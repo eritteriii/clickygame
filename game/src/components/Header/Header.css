@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  .scores {
+    text-align: center;
+  
+  }

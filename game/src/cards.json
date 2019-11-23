@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Kamahl",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=426611&type=card",
+      "count": 0
+    },
+
+    {
+      "id": 3,
+      "name": "Champion",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442084&type=card",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Packmaster",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430390&type=card",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Ritual",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442071&type=card",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Braid",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122123&type=card",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Terminate",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=433131&type=card",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Vindicate",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442208&type=card",
+      "count": 0
+    },
+
+    {
+      "id": 10,
+      "name": "Counterspell",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=447132&type=card",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "VampDragon",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220578&type=card",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Astral",
+      "image": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382850&type=card",
+      "count": 0
+    }
+  ]
